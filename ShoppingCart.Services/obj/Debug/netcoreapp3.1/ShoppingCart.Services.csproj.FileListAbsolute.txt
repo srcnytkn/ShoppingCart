@@ -1,0 +1,12 @@
+C:\Users\SERCA\Documents\Personal\PROJECTS\ShoppingCart\ShoppingCart.Services\bin\Debug\netcoreapp3.1\ShoppingCart.Services.deps.json
+C:\Users\SERCA\Documents\Personal\PROJECTS\ShoppingCart\ShoppingCart.Services\bin\Debug\netcoreapp3.1\ShoppingCart.Services.dll
+C:\Users\SERCA\Documents\Personal\PROJECTS\ShoppingCart\ShoppingCart.Services\bin\Debug\netcoreapp3.1\ShoppingCart.Services.pdb
+C:\Users\SERCA\Documents\Personal\PROJECTS\ShoppingCart\ShoppingCart.Services\bin\Debug\netcoreapp3.1\ShoppingCart.Data.dll
+C:\Users\SERCA\Documents\Personal\PROJECTS\ShoppingCart\ShoppingCart.Services\bin\Debug\netcoreapp3.1\ShoppingCart.Data.pdb
+C:\Users\SERCA\Documents\Personal\PROJECTS\ShoppingCart\ShoppingCart.Services\obj\Debug\netcoreapp3.1\ShoppingCart.Services.csprojAssemblyReference.cache
+C:\Users\SERCA\Documents\Personal\PROJECTS\ShoppingCart\ShoppingCart.Services\obj\Debug\netcoreapp3.1\ShoppingCart.Services.AssemblyInfoInputs.cache
+C:\Users\SERCA\Documents\Personal\PROJECTS\ShoppingCart\ShoppingCart.Services\obj\Debug\netcoreapp3.1\ShoppingCart.Services.AssemblyInfo.cs
+C:\Users\SERCA\Documents\Personal\PROJECTS\ShoppingCart\ShoppingCart.Services\obj\Debug\netcoreapp3.1\ShoppingCart.Services.csproj.CoreCompileInputs.cache
+C:\Users\SERCA\Documents\Personal\PROJECTS\ShoppingCart\ShoppingCart.Services\obj\Debug\netcoreapp3.1\ShoppingCart.Services.csproj.CopyComplete
+C:\Users\SERCA\Documents\Personal\PROJECTS\ShoppingCart\ShoppingCart.Services\obj\Debug\netcoreapp3.1\ShoppingCart.Services.dll
+C:\Users\SERCA\Documents\Personal\PROJECTS\ShoppingCart\ShoppingCart.Services\obj\Debug\netcoreapp3.1\ShoppingCart.Services.pdb
